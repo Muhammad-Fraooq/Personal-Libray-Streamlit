@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Next js ",
+        "author": "Muhammad Farooq",
+        "year": "2025",
+        "genre": "Programming",
+        "read": true
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction",
+        "read": true
+    },
+]
